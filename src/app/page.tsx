@@ -3,8 +3,7 @@ import type { ReactNode } from "react";
 import { Check, ChevronsDown, Gift, Minus, Plus, ShieldCheck, TriangleAlert } from "lucide-react";
 
 const IMG = "/mesaposta";
-// TODO: trocar pelo link de checkout da oferta Donne con Proposito (enquanto isso, os botões levam até a oferta).
-const CHECKOUT_URL = "#offerta";
+const CHECKOUT_URL = "https://pay.hotmart.com/C108341747P?checkoutMode=10";
 const display = "font-display";
 
 /* ------------------------------------------------------------------ */
